@@ -13,23 +13,8 @@
 <img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/995ba27f-5d55-485f-8987-bd87d2e22cc9" />
 
 
-## Tools
-<ul>
-  <li>MDN Docs</li>
-  <li>VS Studio</li>
-  <li>CodePen</li>
-  <li>Figma</li>
-  <li>Image Compressor</li>
-  <li>PhotoShop</li>
-</ul>
+### Tools
+MDN Docs, VS Studio, CodePen, Figma, Image Compressor, PhotoShop
 
-## Soft Skills
-<ul>
-  <li>Design Thinking</li>
-  <li>Creativity</li>
-  <li>Attention to details</li>
-  <li>Adaptability</li>
-  <li>Problem-solving</li>
-  <li>Work ethic</li>
-  <li>Interpersonal/Communication</li>
-</ul>
+### Soft Skills
+Design Thinking, Creativity, Attention to details, Adaptability, Problem-solving, Work ethic, Interpersonal/Communication
