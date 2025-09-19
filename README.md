@@ -5,3 +5,9 @@ My Portfolio: (Coming Soon)
 Web Skills: HTML, CSS, JavaScript
 
 Tools: MDN Docs, VS Studio, CodePen, Figma, Image Compressor, PhotoShop
+
+Connect with me -
+
+  <a href="https://www.linkedin.com/in/saboor-malik" target="_blank">Linkedin</a>
+  /
+<a href="https://github.com/saboorcode" target="_blank">Github</a>
