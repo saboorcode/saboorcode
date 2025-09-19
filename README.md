@@ -1,4 +1,4 @@
-![Recording2025-09-18201751-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a0bfb358-ec92-404c-a313-0e85f383b283)
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3a0bab2b-495b-4afa-a9bd-265e904708a7)
 
 My Portfolio: (Coming Soon)
 
