@@ -1,6 +1,6 @@
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3a0bab2b-495b-4afa-a9bd-265e904708a7)
+![Recording2025-09-18201751-ezgif com-crop](https://github.com/user-attachments/assets/68f1baae-6340-4e31-a2a8-577c6f512a09)
 
 My Portfolio: (Coming Soon)
 
 Web Skills: HTML, CSS, JavaScript
-Tools: VS Studio, CodePen, Files System, Figma, Image Compresser
+Tools: MDN Docs, VS Studio, CodePen, Figma, Image Compressor, PhotoShop
