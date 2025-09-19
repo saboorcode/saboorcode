@@ -1,6 +1,6 @@
 ![Recording2025-09-18201751-ezgif com-crop](https://github.com/user-attachments/assets/68f1baae-6340-4e31-a2a8-577c6f512a09)
 ### Connect with me:
-  <a href="https://www.linkedin.com/in/saboor-malik" target="_blank">Linkedin</a>
+  <a href="https://www.linkedin.com/in/saboor-malik" target="_blank"><img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/59efba79-f41b-44e7-a26d-3507df470722" /></a>
   
 ## Front-End Web Development Languages:
 <img width="400" height="auto" alt="image-removebg-preview (1)" src="https://github.com/user-attachments/assets/8c8ac11d-11eb-4310-835d-b4d415b0b371" />
