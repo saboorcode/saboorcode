@@ -4,7 +4,7 @@
 <img width="400" height="auto" alt="image-removebg-preview (1)" src="https://github.com/user-attachments/assets/8c8ac11d-11eb-4310-835d-b4d415b0b371" />
 
 ### CSS Fun:
-<img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/56ad7303-7d4d-4798-994b-e7a87e208870" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/56ad7303-7d4d-4798-994b-e7a87e208870" />
 <img width="300" height="auto" alt="image" src="https://github.com/user-attachments/assets/995ba27f-5d55-485f-8987-bd87d2e22cc9" />
 <img width="250" height="auto" alt="image" src="https://github.com/user-attachments/assets/0cdc65b7-9318-46d0-b267-3466bdf7cbd9" />
 <img width="auto" height="200" alt="image" src="https://github.com/user-attachments/assets/39acffb5-97aa-4abf-805b-97a282149740" />
